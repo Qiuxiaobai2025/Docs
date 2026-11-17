@@ -4,5 +4,4 @@ theme:
 nav:
   - 首页: index.md
   - 开发: dev.md
-  - 常见问题: faq.md
   - 更新日志: changelog.md
